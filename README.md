@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wulflair
+- 👋 Hi, I’m @Otto_Wulf
 - 👀 I’m interested in automation and testing for the cloud.
 - 🌱 I’m currently learning python automation and aws cloud engineering.
 - 💞️ I’m looking to collaborate on anything cloud related especially insfrastructure.
